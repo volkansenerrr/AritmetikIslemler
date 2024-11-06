@@ -1,0 +1,10 @@
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\AritmetikIslemler\AritmetikIslemler\bin\Debug\AritmetikIslemler.exe.config
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\AritmetikIslemler\AritmetikIslemler\bin\Debug\AritmetikIslemler.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\AritmetikIslemler\AritmetikIslemler\bin\Debug\AritmetikIslemler.pdb
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\AritmetikIslemler\AritmetikIslemler\obj\Debug\AritmetikIslemler.csproj.AssemblyReference.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\AritmetikIslemler\AritmetikIslemler\obj\Debug\AritmetikIslemler.Form1.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\AritmetikIslemler\AritmetikIslemler\obj\Debug\AritmetikIslemler.Properties.Resources.resources
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\AritmetikIslemler\AritmetikIslemler\obj\Debug\AritmetikIslemler.csproj.GenerateResource.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\AritmetikIslemler\AritmetikIslemler\obj\Debug\AritmetikIslemler.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\AritmetikIslemler\AritmetikIslemler\obj\Debug\AritmetikIslemler.exe
+C:\Users\I-Life\OneDrive\Desktop\Dosyalar\EBM - 2.KUR\AritmetikIslemler\AritmetikIslemler\obj\Debug\AritmetikIslemler.pdb
