@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\I-Life\\OneDrive\\Desktop\\Dosyalar\\EBM - 2.KUR\\AritmetikIslemler\\",
+  "WorkspaceRootPath": "C:\\Users\\I-Life\\OneDrive\\Documents\\GitHub\\AritmetikIslemler\\AritmetikIslemler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83637374-F181-401E-A548-127771DBF16D}|AritmetikIslemler\\AritmetikIslemler.csproj|c:\\users\\i-life\\onedrive\\desktop\\dosyalar\\ebm - 2.kur\\aritmetikislemler\\aritmetikislemler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{83637374-F181-401E-A548-127771DBF16D}|AritmetikIslemler\\AritmetikIslemler.csproj|c:\\users\\i-life\\onedrive\\documents\\github\\aritmetikislemler\\aritmetikislemler\\aritmetikislemler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{83637374-F181-401E-A548-127771DBF16D}|AritmetikIslemler\\AritmetikIslemler.csproj|solutionrelative:aritmetikislemler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83637374-F181-401E-A548-127771DBF16D}|AritmetikIslemler\\AritmetikIslemler.csproj|c:\\users\\i-life\\onedrive\\desktop\\dosyalar\\ebm - 2.kur\\aritmetikislemler\\aritmetikislemler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{83637374-F181-401E-A548-127771DBF16D}|AritmetikIslemler\\AritmetikIslemler.csproj|C:\\Users\\I-Life\\OneDrive\\Documents\\GitHub\\AritmetikIslemler\\AritmetikIslemler\\aritmetikislemler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83637374-F181-401E-A548-127771DBF16D}|AritmetikIslemler\\AritmetikIslemler.csproj|solutionrelative:aritmetikislemler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\I-Life\\OneDrive\\Desktop\\Dosyalar\\EBM - 2.KUR\\AritmetikIslemler\\AritmetikIslemler\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\OneDrive\\Documents\\GitHub\\AritmetikIslemler\\AritmetikIslemler\\AritmetikIslemler\\Form1.cs",
               "RelativeDocumentMoniker": "AritmetikIslemler\\Form1.cs",
-              "ToolTip": "C:\\Users\\I-Life\\OneDrive\\Desktop\\Dosyalar\\EBM - 2.KUR\\AritmetikIslemler\\AritmetikIslemler\\Form1.cs",
+              "ToolTip": "C:\\Users\\I-Life\\OneDrive\\Documents\\GitHub\\AritmetikIslemler\\AritmetikIslemler\\AritmetikIslemler\\Form1.cs",
               "RelativeToolTip": "AritmetikIslemler\\Form1.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAADwv0sAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T14:36:02.228Z",
               "EditorCaption": ""
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\I-Life\\OneDrive\\Desktop\\Dosyalar\\EBM - 2.KUR\\AritmetikIslemler\\AritmetikIslemler\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\OneDrive\\Documents\\GitHub\\AritmetikIslemler\\AritmetikIslemler\\AritmetikIslemler\\Form1.cs",
               "RelativeDocumentMoniker": "AritmetikIslemler\\Form1.cs",
-              "ToolTip": "C:\\Users\\I-Life\\OneDrive\\Desktop\\Dosyalar\\EBM - 2.KUR\\AritmetikIslemler\\AritmetikIslemler\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\I-Life\\OneDrive\\Documents\\GitHub\\AritmetikIslemler\\AritmetikIslemler\\AritmetikIslemler\\Form1.cs [Design]",
               "RelativeToolTip": "AritmetikIslemler\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T14:29:23.257Z",
